@@ -1,8 +1,8 @@
-# Hi there, I'm Simon! 👋
+# Hello, I am Simon! 👋
 
-I'm a passionate AI student currently studying at Epita, France in my 4th year of studies!
+I am a passionate AI student currently studying at Epita, France in my 5th year of studies!
 
-- 🌱 I’m currently learning **Neural Network and Machine Learning**
+- 🌱 I am currently learning **Neural Network and Machine Learning** coupled with data analysis.
 - 💬 Ask me about anything related to AI or my studies!
 
 ## 📫 Connect with Me
