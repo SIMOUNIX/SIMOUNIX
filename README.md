@@ -1,9 +1,10 @@
 # Hello, I am Simon! 👋
 
-I am a passionate AI student currently studying at Epita, France in my 5th year of studies!
+I am a passionate AI developper with some knowledge in web dev as well! I look cooking, reading and exercising
 
-- 🌱 I am currently learning **Neural Network and Machine Learning** coupled with data analysis.
-- 💬 Ask me about anything related to AI or my studies!
+- 🌱 I am currently interested in agentic AI with tools like LangChain, ...
+- 💻 <a href="https://simonthuaud.com" target="_blank">simonthuaud</a> is the website where I store all my stuff.
+- 💬 Ask me about anything related to AI or my passions!
 
 ## 📫 Connect with Me
 
