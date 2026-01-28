@@ -2,7 +2,7 @@
 
 I am a passionate AI developper with some knowledge in web dev as well! I look cooking, reading and exercising
 
-- 🌱 I am currently interested in agentic AI with tools like LangChain, ...
+- 🌱 I am currently interested in agentic AI with tools like LangChain. I am trying to build my own python package to "harvest" data from documents called <a href="https://github.com/SIMOUNIX/harvestor" target="_blank">harverstor</a>.
 - 💻 <a href="https://simonthuaud.com" target="_blank">simonthuaud</a> is the website where I store all my stuff.
 - 💬 Ask me about anything related to AI or my passions!
 
